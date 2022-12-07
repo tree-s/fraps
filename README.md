@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/tree-s/fraps/actions/workflows/ci.yml/badge.svg)](https://github.com/tree-s/fraps/actions/workflows/ci.yml) [![Excavator](https://github.com/tree-s/fraps/actions/workflows/excavator.yml/badge.svg)](https://github.com/tree-s/fraps/actions/workflows/excavator.yml)
 
-Windows software developement kit for [Scoop](https://scoop.sh), the Windows command-line installer.
+FRAPS real-time video capture and & benchmarking tools for [Scoop](https://scoop.sh), the Windows command-line installer.
 
 How do I install these manifests?
 ---------------------------------
